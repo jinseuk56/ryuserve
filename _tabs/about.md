@@ -3,144 +3,92 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# Jinseok Ryu, PhD
+# **Jinseok Ryu, PhD**
 
-## **Contact me**
-
-<aside>
-✉️ [jinseuk56@gmail.com](mailto:jinseuk56@gmail.com)
-
-</aside>
-
-<aside>
-✉️ [jinseuk56@snu.ac.kr](mailto:jinseuk56@snu.ac.kr)
-
-</aside>
-
-<aside>
-<img src="/assets/img/github.webp" alt="github.webp" width="40px" /> [GitHub](https://github.com/jinseuk56)
-
-</aside>
-
-<aside>
-<img src="/assets/img/linkedin.webp" alt="linkedin.webp" width="40px" /> [LinkedIn](https://www.linkedin.com/in/j-ryu/)
-
-</aside>
-
-<aside>
-<img src="/assets/img/orcid.webp" alt="orcid.webp" width="40px" /> [ORCID](https://orcid.org/0000-0002-9558-3469)
-
-</aside>
+# **Contact me**
+* ✉️ [jinseuk56@gmail.com](mailto:jinseuk56@gmail.com)
+* ✉️ [jinseuk56@snu.ac.kr](mailto:jinseuk56@snu.ac.kr)
+* [![GitHub](/assets/img/github.webp)](https://github.com/jinseuk56)
+* [![LinkedIn](/assets/img/linkedin.webp)](https://www.linkedin.com/in/j-ryu/)
+* [![ORCID](/assets/img/orcid.webp)](https://orcid.org/0000-0002-9558-3469)
 
 ---
 
-## 🔸Summary of Qualifications
-
+# 🔸**Summary of Qualifications**
 - A unique background combining advanced transmission electron microscopy and the development of analysis methods using machine learning and deep learning for materials characterization.
 - Successfully developed and published multiple open-source, data-driven analysis pipelines to solve critical materials challenges, including 3D observation, characterization of amorphous structures, and elucidation of the structure-property relationships in photovoltaic materials, batteries, catalytic nanoparticles, and semiconductors.
 
 ---
 
-## 🔸Education
-
-March 1, 2017 → August 29, 2022 
-
+# 🔸**Education**
+### March 1, 2017 → August 29, 2022 
 ### PhD
-
-**Advisor: Prof. Miyoung Kim**
-Combined MS/PhD Course
-****Materials Science and Engineering
+Advisor: Prof. Miyoung Kim  
+Combined MS/PhD Course  
+Materials Science and Engineering  
 Seoul National University
 
 ---
 
-March 1, 2009 → August 28, 2015 
-
+### March 1, 2009 → August 28, 2015 
 ### BS
-
-Materials Science and Engineering
-Seoul National University
-
----
-
-## 🔸Professional Experience
-
-March 1, 2026
-
-### Research Professor
-
-Research Institute of Advanced Materials (RIAM)
-Seoul National Unversity (Seoul, South Korea)
+Materials Science and Engineering  
+Seoul National University  
 
 ---
 
-March 4, 2024 → January 30, 2026 
+# 🔸**Professional Experience**
 
-### Postdoctoral Research Associate
+### Research Professor | March 1, 2026 → Present
+Research Institute of Advanced Materials (RIAM)  
+Seoul National Unversity (Seoul, South Korea)  
 
-electron Physical Science Imaging Centre (ePSIC)
-Diamond Light Source (Didcot, United Kingdom)
+---
+
+### Postdoctoral Research Associate | March 4, 2024 → January 30, 2026 
+electron Physical Science Imaging Centre (ePSIC)  
+Diamond Light Source (Didcot, United Kingdom)  
 Funded by the InFUSE Prosperity Partnership
 
 ---
 
-September 1, 2022 → February 29, 2024 
-
-### Postdoctoral Research Associate
-
-Research Institute of Advanced Materials (RIAM)
+### Postdoctoral Research Associate | September 1, 2022 → February 29, 2024
+Research Institute of Advanced Materials (RIAM)  
 Seoul National University (Seoul, South Korea)
 
 ---
 
-July 1, 2015 → July 19, 2016 
-
-### Semiconductor Engineer
-
+### Semiconductor Engineer | July 1, 2015 → July 19, 2016
 SK Hynix (Icheon-si, Gyeonggi-do, South Korea)
 
 ---
 
-April 26, 2010 → May 6, 2012 
-
-### Military Service
-
-Hornorable Discharge
+### Military Service | April 26, 2010 → May 6, 2012 
+Hornorable Discharge  
 Republic of Korea Air Force (Seoul, South Korea)
 
 ---
 
-## 🔸Teaching Experience
-
-July 20, 2023 
-
-### 28th TEM Workshop, Korean Society of Microscopy
-
+# 🔸**Teaching Experience**
+### 28th TEM Workshop, Korean Society of Microscopy | July 20, 2023 
 **Lecture Title:** Machine learning in TEM analysis: basics and applications
 
 ---
 
-July 28, 2022 → July 29, 2022 
-
-### 27th TEM Workshop, Korean Society of Microscopy
-
+### 27th TEM Workshop, Korean Society of Microscopy | July 28, 2022 → July 29, 2022
 **Lecture Title:** STEM-derived multi-dimensional data processing in Python-integrated GMS3
 
 ---
 
-September 1, 2020 → December 31, 2020 
-
-### Fundamentals of Computer Science (Lecture, 2020/Fall)
-
-Department of Materials Science and Engineering
+### Fundamentals of Computer Science (Lecture, 2020/Fall) | September 1, 2020 → December 31, 2020 
+Department of Materials Science and Engineering  
 Seoul National University
 
 ---
 
-## 🔸Skills
+# 🔸**Skills**
 
 ### (S)TEM Experiment and Analysis
-
 - Capable of acquiring microscopy data using (Cs-corrected) TEMs including *ARM300CF*, *ARM200CF*, *JEM-2100F* (JEOL), *Themis Z* and *Tecnai F20* (Thermo Fisher)
 - Experienced in advanced (S)TEM imaging and spectroscopy experiments, including 4-dimensional STEM (4D-STEM), differential phase contrast STEM (DPC-STEM) and electron energy loss spectroscopy (EELS)
 - Experienced in analyzing the structure-property relationship of materials through (S)TEM
@@ -152,7 +100,6 @@ Seoul National University
     - Electronic structure & quantitative chemical analysis through EELS and EDS
 
 ### Methodology Development for Microscopy Data Analysis
-
 - Experienced in programming using Python language and DM scripting for (S)TEM analysis ([*Link*](https://github.com/jinseuk56/))
     - Developing programs for feature extraction from microscopy-derived big datasets using various machine learning algorithms, including supervised/unsupervised learning based on deep neural networks ([*Link*](https://github.com/jinseuk56/drca))
     - Developing programs for electron/EELS tomography ([*Link*](https://github.com/jinseuk56/CAETomo))
@@ -163,7 +110,7 @@ Seoul National University
 
 ---
 
-## 🔸Publication
+# 🔸**Publication**
 
 (†: first author or co-first authors, *: corresponding author)
 
@@ -182,7 +129,7 @@ Seoul National University
 
 ---
 
-## 🔸Conference & Award
+# 🔸**Conference & Award**
 
 (†: presenter, *: corresponding author)
 
