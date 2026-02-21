@@ -21,7 +21,7 @@ order: 4
 ---
 
 # 🔸**Education**
-### **PhD** | March 1, 2017 → August 29, 2022
+### **PhD** | Mar 1, 2017 → Aug 29, 2022
 Combined MS/PhD Course  
 Advisor: Prof. Miyoung Kim  
 Materials Science and Engineering  
@@ -29,7 +29,7 @@ Seoul National University
 
 ---
 
-### **BS** | March 1, 2009 → August 28, 2015 
+### **BS** | Mar 1, 2009 → Aug 28, 2015 
 Materials Science and Engineering  
 Seoul National University  
 
@@ -37,48 +37,50 @@ Seoul National University
 
 # 🔸**Professional Experience**
 
-### **Research Professor** | March 1, 2026 → Present
+### **Research Professor** | Mar 1, 2026 → Present
 Research Institute of Advanced Materials (RIAM)  
 Seoul National Unversity (Seoul, South Korea)  
 
 ---
 
-### **Postdoctoral Research Associate** | March 4, 2024 → January 30, 2026 
+### **Postdoctoral Research Associate** | Mar 4, 2024 → Jan 30, 2026 
 electron Physical Science Imaging Centre (ePSIC)  
 Diamond Light Source (Didcot, United Kingdom)  
 Funded by the InFUSE Prosperity Partnership
 
 ---
 
-### **Postdoctoral Research Associate** | September 1, 2022 → February 29, 2024
+### **Postdoctoral Research Associate** | Sep 1, 2022 → Feb 29, 2024
 Research Institute of Advanced Materials (RIAM)  
 Seoul National University (Seoul, South Korea)
 
 ---
 
-### **Semiconductor Engineer** | July 1, 2015 → July 19, 2016
+### **Semiconductor Engineer** | Jul 1, 2015 → Jul 19, 2016
 SK Hynix (Icheon-si, Gyeonggi-do, South Korea)
 
 ---
 
-### **Military Service** | April 26, 2010 → May 6, 2012 
+### **Military Service** | Apr 26, 2010 → May 6, 2012 
 Hornorable Discharge  
 Republic of Korea Air Force (Seoul, South Korea)
 
 ---
 
 # 🔸**Teaching Experience**
-### **28th TEM Workshop, Korean Society of Microscopy** | July 20, 2023 
+### **28th TEM Workshop** | Jul 20, 2023
+Korean Society of Microscopy  
 **Lecture Title:** Machine learning in TEM analysis: basics and applications
 
 ---
 
-### **27th TEM Workshop, Korean Society of Microscopy** | July 28, 2022 → July 29, 2022
+### **27th TEM Workshop** | Jul 28, 2022 → Jul 29, 2022
+Korean Society of Microscopy  
 **Lecture Title:** STEM-derived multi-dimensional data processing in Python-integrated GMS3
 
 ---
 
-### **Fundamentals of Computer Science** | September 1, 2020 → December 31, 2020 
+### **Fundamentals of Computer Science** | Sep 1, 2020 → Dec 31, 2020 
 Department of Materials Science and Engineering  
 Seoul National University
 
