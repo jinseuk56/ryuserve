@@ -18,17 +18,17 @@ order: 4
 </aside>
 
 <aside>
-<img src="25231.png" alt="25231.png" width="40px" /> [GitHub](https://github.com/jinseuk56)
+<img src="/assets/img/github.webp" alt="github.webp" width="40px" /> [GitHub](https://github.com/jinseuk56)
 
 </aside>
 
 <aside>
-<img src="3228550_app_b_w_linkedin_logo_media_icon.png" alt="3228550_app_b_w_linkedin_logo_media_icon.png" width="40px" /> [LinkedIn](https://www.linkedin.com/in/j-ryu/)
+<img src="/assets/img/linkedin.webp" alt="linkedin.webp" width="40px" /> [LinkedIn](https://www.linkedin.com/in/j-ryu/)
 
 </aside>
 
 <aside>
-<img src="orcid.png" alt="orcid.png" width="40px" /> [ORCID](https://orcid.org/0000-0002-9558-3469)
+<img src="/assets/img/orcid.webp" alt="orcid.webp" width="40px" /> [ORCID](https://orcid.org/0000-0002-9558-3469)
 
 </aside>
 
