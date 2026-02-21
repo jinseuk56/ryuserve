@@ -5,35 +5,12 @@ order: 4
 ---
 # **Jinseok Ryu, PhD**
 
-# **Contact me**
-<div class="contact-grid">
-  <a href="mailto:jinseuk56@gmail.com" class="contact-card">
-    <span class="icon">✉️</span>
-    <span class="label">jinseuk56@gmail.com</span>
-  </a>
+[[Email] jinseuk56@gmail.com](mailto:jinseuk56@gmail.com)  
+[[Email] jinseuk56@snu.ac.kr](mailto:jinseuk56@snu.ac.kr)  
+[[Github] https://github.com/jinseuk56](https://github.com/jinseuk56)  
+[[LinkedIn] https://www.linkedin.com/in/j-ryu/](https://www.linkedin.com/in/j-ryu/)  
+[[ORCID] https://orcid.org/0000-0002-9558-3469](https://orcid.org/0000-0002-9558-3469)  
 
-   <a href="mailto:jinseuk56@snu.ac.kr" class="contact-card">
-    <span class="icon">✉️</span>
-    <span class="label">jinseuk56@snu.ac.kr</span>
-  </a>
-
-  <a href="https://github.com/jinseuk56" class="contact-card">
-    <img src="/assets/img/github.webp" alt="GitHub">
-    <span class="label">GitHub</span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/j-ryu/" class="contact-card">
-    <img src="/assets/img/linkedin.webp" alt="LinkedIn">
-    <span class="label">LinkedIn</span>
-  </a>
-
-  <div></div> 
-
-  <a href="https://orcid.org/0000-0002-9558-3469" class="contact-card">
-    <img src="/assets/img/orcid.webp" alt="ORCID">
-    <span class="label">ORCID</span>
-  </a>
-</div>
 
 ---
 
@@ -45,8 +22,8 @@ order: 4
 
 # 🔸**Education**
 ### **PhD** | March 1, 2017 → August 29, 2022
-Advisor: Prof. Miyoung Kim  
 Combined MS/PhD Course  
+Advisor: Prof. Miyoung Kim  
 Materials Science and Engineering  
 Seoul National University
 
