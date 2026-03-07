@@ -37,7 +37,7 @@ Seoul National University
 
 # 🔸**Professional Experience**
 
-### **Research Professor** | Mar 1, 2026 → Present
+### **Research Associate Professor** | Mar 1, 2026 → Present
 Research Institute of Advanced Materials (RIAM)  
 Seoul National Unversity (Seoul, South Korea)  
 
