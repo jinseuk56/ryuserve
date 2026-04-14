@@ -14,12 +14,6 @@ order: 4
 
 ---
 
-# 🔸**Summary of Qualifications**
-- A unique background combining advanced transmission electron microscopy and the development of analysis methods using machine learning and deep learning for materials characterization.
-- Successfully developed and published multiple open-source, data-driven analysis pipelines to solve critical materials challenges, including 3D observation, characterization of amorphous structures, and elucidation of the structure-property relationships in photovoltaic materials, batteries, catalytic nanoparticles, and semiconductors.
-
----
-
 # 🔸**Education**
 ### **PhD** | Mar 1, 2017 → Aug 29, 2022
 Combined MS/PhD Course  
@@ -92,7 +86,7 @@ Seoul National University
 - Capable of acquiring microscopy data using (Cs-corrected) TEMs including *ARM300CF*, *ARM200CF*, *JEM-2100F* (JEOL), *Themis Z* and *Tecnai F20* (Thermo Fisher)
 - Experienced in advanced (S)TEM imaging and spectroscopy experiments, including 4-dimensional STEM (4D-STEM), differential phase contrast STEM (DPC-STEM) and electron energy loss spectroscopy (EELS)
 - Experienced in analyzing the structure-property relationship of materials through (S)TEM
-    - Ion-battery electrode materials (solid electrolyte interface), photovoltaic materials (lead halide perovskites), catalytic/plasmonic nanoparticles (gold, titanium oxide), amorphous materials (IGZO, gallium oxide, carbon), transition metal oxide-based memories (tantalum/hafnium oxides), light emitting materials (gallium nitride)
+    - Battery materials (solid electrolyte interphase), photovoltaic materials (lead halide perovskites), catalytic/plasmonic nanoparticles (gold, transition metal oxide), amorphous materials (IGZO, gallium oxide, carbon), functional oxide memories (tantalum/hafnium oxides), light emitting materials (gallium nitride, lead halide perovskite)
     - STEM/EDS/EELS tomography
     - 4D-STEM analysis (virtual imaging/RDF/FEM/DPC/ptychography)
     - Atomic structure & structural defect analysis including amorphous structure analysis [radial distribution function (RDF) & fluctuation electron microscopy (FEM)]
